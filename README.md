@@ -351,21 +351,21 @@ By far the most popular genre in the dataset is Drama which appears in 1,094 mov
 
 This data can be shown as a bar plot as shown:
 
-bar plot 1
+<img src="Bar Plot 1.png" width="400">
 
 Now if looking at this data only for the years prior to 2000, the data remains proportionally similar to the full data. Slight changes can be seen as the number of Adventure, History, and Western films is higher, while the number of Action, Horror, and Thriller movies are lower. This can mainly be attributed to western adventure films being highly popular in the early years in the dataset, looking at the 1931 and 1932 tables above we see that nearly every film has the western genre. However, Horror and Thriller films became much more popular with audiences in more recent years. 
 
-bar plot 2
+<img src="Bar Plot 2.png" width="400">
 
 These changes are much more apparent when we look at the bar graph for 2000 to the present as Action and Thriller are much higher.
 
-bar plot 3
+<img src="Bar Plot 3.png" width="400">
 
 ### Number of Movies by Year
 
 Breaking down the number of movies made each year from 2000 to the present, there were a higher amount of movies produced in 2001, 2012, 2013, and 2015 while 2011 had much less movies than other years. I'm not considering 2018 in this case as the data does not have a complete list for movies in 2018. 
 
-bar plot 4
+<img src="Bar Plot 4.png" width="400">
 
 ### Number of Years Directed by Directors with at least 30 years of experience
 
